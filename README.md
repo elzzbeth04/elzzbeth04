@@ -39,7 +39,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   
-  <div style="flex: 1; text-align: center;">
-    <img src="[[https://link-to-your-image.com](https://img.freepik.com/premium-photo/animated-cartoon-illustration-female-programmer-working-her-computer-night-she-is-typing-computer-code-developing-games-mobile-apps-student-is-studying-dark-remote-job_76964-343352.jpg)](https://img.freepik.com/premium-photo/animated-cartoon-illustration-female-programmer-working-her-computer-night-she-is-typing-computer-code-developing-games-mobile-apps-student-is-studying-dark-remote-job_76964-343352.jpg?w=1380)" alt="Typing at computer" style="max-width: 100%; height: auto;" />
-  </div>
+
 </div>
